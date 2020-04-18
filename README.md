@@ -1,4 +1,2 @@
-# FireBaseSMSVerification
-Firebase Phone SMS Authentication OTP Verification Example
+# FileShare App
 
-Firebase Phone SMS Authentication OTP Verification Example
